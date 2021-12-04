@@ -25,3 +25,9 @@ Hint: Try to visualise the data
 
 Step - 5: Upload your Jupyter Notebook on Github or Google Drive and submit the link in the form mentioned below. 
 
+# Note:
+### I have used Logistic regression , KNN  Classifer and  Decision tree Classifier
+
+### Hyper parameter tuining is done on KNN Classifier and Decision Tree Classifier 
+
+### SVC model not used.
